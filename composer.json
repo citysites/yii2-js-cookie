@@ -1,6 +1,8 @@
 {
     "name": "citysites/yii2-js-cookie",
     "description": "Yii2 asset for https://github.com/js-cookie/js-cookie",
+    "keywords": ["yii2","asset","cookie"],
+    "license": "BSD-3-Clause",
     "require": {
         "yiisoft/yii2": "^2.0",
         "npm-asset/js-cookie": "^2.2"
@@ -11,6 +13,11 @@
             "email": "nikosid@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "citysites\\": ""
+        }
+    },
     "repositories": [
         {
             "type": "composer",
