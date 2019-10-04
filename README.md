@@ -17,6 +17,6 @@ or add ```"citysites/yii2-js-cookie": "*"``` to the require section of your ```c
 ## Usage
 
 ```php
-use \citysites\web\JsCookieAsset;
+use \citysites\assets\JsCookieAsset;
 AppAsset::register($this);// $this represents the view object
 ```
