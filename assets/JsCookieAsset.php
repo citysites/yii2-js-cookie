@@ -1,6 +1,6 @@
 <?php
 
-namespace citysites\web;
+namespace citysites\assets;
 
 use yii\web\AssetBundle;
 
