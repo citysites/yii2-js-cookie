@@ -10,9 +10,9 @@ All documantation about js-cookie you can find [here](https://github.com/js-cook
 
 The preferred way to install this extension is through [Composer](http://getcomposer.org/).
 
-Either run ```composer require citysites/yii2-js-cookie```
+Either run ```composer require citysites/yii2-js-cookie "dev-master"```
 
-or add ```"citysites/yii2-js-cookie": "*"``` to the require section of your ```composer.json```
+or add ```"citysites/yii2-js-cookie": "dev-master"``` to the require section of your ```composer.json```
 
 ## Usage
 
