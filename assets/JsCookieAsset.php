@@ -2,7 +2,7 @@
 
 namespace citysites\assets;
 
-use yii\assets\AssetBundle;
+use yii\web\AssetBundle;
 
 class JsCookieAsset extends AssetBundle
 {
